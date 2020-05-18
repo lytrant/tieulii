@@ -104,8 +104,8 @@ menu:
   🏠 Trang chủ: /
   📖 Whatever: /about
   # Links: /links
-  🔍 Tìm kiếm: /search
-  🚷 404: /notfound
+  🔍 Tìm kiếm: /searching
+  🚷 404: /not-found
 
 # Social media URL
 # Try to sort by changing the order of the keys
